@@ -193,3 +193,29 @@ Input validation and API key authentication were also implemented and tested usi
 ## Internship
 
 This project was developed as part of the Python Development Internship – Week 2.
+
+## API Testing Screenshots
+
+### 1. GET - Read Students
+
+![GET Students](Evidence/1-get-students.png)
+
+### 2. POST - Create Student
+
+![Create Student](Evidence/2-create-student.png)
+
+### 3. PUT - Update Student
+
+![Update Student](Evidence/3-update-student.png)
+
+### 4. DELETE - Delete Student
+
+![Delete Student](Evidence/4-delete-student.png)
+
+### 5. Validation Testing
+
+![Validation Error](Evidence/5-validation.png)
+
+### 6. Authentication Testing
+
+![Authentication Error](Evidence/6-authentication.png)
